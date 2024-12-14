@@ -5,7 +5,7 @@ Hi there! 👋<br>I'm Rituraj, a second-year Computer Science student at SRM Uni
 ## 🌐 Socials:
 https://codolio.com/profile/rituraj_kumar) [![codolio] 
 
-https://www.linkedin.com/in/er-rituraj-kumar-788867288/[![LinkedIn]
+https://www.linkedin.com/in/er-rituraj-kumar-788867288/ [![LinkedIn]
 
 https://leetcode.com/u/_rituraj_Kumar/ [![leetcode]
 # 💻 Tech Stack:
