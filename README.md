@@ -1,9 +1,17 @@
-# 💫 About Me:
 <div align="center">
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rituraj%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20DSA%20Enthusiast%20|%20CS%20Student&descSize=16&descAlignY=52" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+%F0%9F%91%8B+I'm+Rituraj+Kumar;Full+Stack+Developer+%F0%9F%92%BB;1595%2B+Contributions+This+Year+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=riturajkumar01&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574f49316e496f51">
+
+## 💫 About Me:
+
 I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (Ramapuram campus). I am passionate about coding and constantly sharpening my skills to excel in the tech world. My current focus is on mastering Data Structures and Algorithms (DSA) to tackle complex problems efficiently.<br><br>I have hands-on experience with C++, HTML, CSS, Python, and Java, which I actively use to build projects and explore new ideas. Apart from my love for technology, I'm a fitness enthusiast who enjoys hitting the gym and exploring new places through traveling.<br><br>Let’s connect and build something amazing together! 🚀<br><br>Feel free to check out my projects here on GitHub. 😊
 
 
@@ -34,27 +42,23 @@ I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (R
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=riturajkumar01&theme=darkhub&column=7&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-  </a>
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
 
 ### ✍️ Random Dev Quote
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-### 🔝 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=riturajkumar01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -81,6 +85,11 @@ I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (R
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=riturajkumar01&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
 
 
