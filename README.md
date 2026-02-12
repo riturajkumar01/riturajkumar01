@@ -20,7 +20,8 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasankhan10/hasankhan10/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 💫 About Me:
 
@@ -32,9 +33,9 @@ I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (R
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://riturajkumar.onrender.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rituraj-kumar-788867288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riturajkumar15384@gmail.com) 
 
-<!-- Hacker Typing Animation 2 -->
+<!-- Hacker Typing Animation -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=%24+sudo+hack+the+planet+🌍;%24+git+push+--force+origin+master+💀;%24+while(true)+%7B+code()%3B+%7D+⚡;%24+rm+-rf+bugs+%26%26+deploy+🚀" alt="Hacker Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%24+sudo+hack+the+planet+%F0%9F%8C%8D;%24+git+push+--force+origin+main+%F0%9F%92%80;%24+while(true)+%7B+code()%3B+%7D+%E2%9A%A1;%24+rm+-rf+bugs+%26%26+deploy+%F0%9F%9A%80" alt="Hacker Typing" />
 </div>
 
 # 💻 Tech Stack:
@@ -107,7 +108,7 @@ I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (R
 
 <!-- Matrix Style Footer -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%3E+Connection+Established...;%3E+Access+Granted...;%3E+Welcome+to+Rituraj's+Terminal+%F0%9F%92%80;%3E+Hack+The+Planet!+%F0%9F%8C%8D" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%3E+Connection+Established...;%3E+Access+Granted...;%3E+Welcome+to+Rituraj%27s+Terminal+%F0%9F%92%80;%3E+Hack+The+Planet!+%F0%9F%8C%8D" />
 </div>
 
 <div align="center">
