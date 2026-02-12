@@ -1,4 +1,9 @@
 # 💫 About Me:
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=riturajkumar01&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (Ramapuram campus). I am passionate about coding and constantly sharpening my skills to excel in the tech world. My current focus is on mastering Data Structures and Algorithms (DSA) to tackle complex problems efficiently.<br><br>I have hands-on experience with C++, HTML, CSS, Python, and Java, which I actively use to build projects and explore new ideas. Apart from my love for technology, I'm a fitness enthusiast who enjoys hitting the gym and exploring new places through traveling.<br><br>Let’s connect and build something amazing together! 🚀<br><br>Feel free to check out my projects here on GitHub. 😊
 
 
@@ -21,13 +26,17 @@ I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (R
 
 ## 📈 Contribution Graph
 
-[![Rituraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riturajkumar01&theme=tokyo-night&hide_border=true&area=true)](https://github.com/riturajkumar01)
+<div align="center">
+
+[![Rituraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riturajkumar01&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/riturajkumar01)
+
+</div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=riturajkumar01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=riturajkumar01&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -39,11 +48,20 @@ I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (R
 
 </div>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repos
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=riturajkumar01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=riturajkumar01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+## 📊 Weekly Development Breakdown
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
