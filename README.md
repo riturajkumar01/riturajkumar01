@@ -8,13 +8,34 @@
 
 </div>
 
+<!-- Hacker Terminal Animation -->
+<div align="center">
+
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+█▀▀ █▀█ █▀▄ █▀▀   █ █▀   █   █ █▀▀ █▀▀
+█▄▄ █▄█ █▄▀ ██▄   █ ▄█   █▄▄ █ █▀  ██▄
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
+
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ## 💫 About Me:
 
-I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (Ramapuram campus). I am passionate about coding and constantly sharpening my skills to excel in the tech world. My current focus is on mastering Data Structures and Algorithms (DSA) to tackle complex problems efficiently.<br><br>I have hands-on experience with C++, HTML, CSS, Python, and Java, which I actively use to build projects and explore new ideas. Apart from my love for technology, I'm a fitness enthusiast who enjoys hitting the gym and exploring new places through traveling.<br><br>Let’s connect and build something amazing together! 🚀<br><br>Feel free to check out my projects here on GitHub. 😊
+I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (Ramapuram campus). I am passionate about coding and constantly sharpening my skills to excel in the tech world. My current focus is on mastering Data Structures and Algorithms (DSA) to tackle complex problems efficiently.<br><br>I have hands-on experience with C++, HTML, CSS, Python, and Java, which I actively use to build projects and explore new ideas. Apart from my love for technology, I'm a fitness enthusiast who enjoys hitting the gym and exploring new places through traveling.<br><br>Let's connect and build something amazing together! 🚀<br><br>Feel free to check out my projects here on GitHub. 😊
+
+<br clear="both">
 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://riturajkumar.onrender.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rituraj-kumar-788867288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riturajkumar15384@gmail.com) 
+
+<!-- Hacker Typing Animation 2 -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=%24+sudo+hack+the+planet+🌍;%24+git+push+--force+origin+master+💀;%24+while(true)+%7B+code()%3B+%7D+⚡;%24+rm+-rf+bugs+%26%26+deploy+🚀" alt="Hacker Typing" />
+</div>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -84,9 +105,14 @@ I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (R
 
 ---
 
+<!-- Matrix Style Footer -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%3E+Connection+Established...;%3E+Access+Granted...;%3E+Welcome+to+Rituraj's+Terminal+%F0%9F%92%80;%3E+Hack+The+Planet!+%F0%9F%8C%8D" />
+</div>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:004400&height=100&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>
 
