@@ -16,12 +16,17 @@ I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (R
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=riturajkumar01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
+<img src="https://github-readme-stats.vercel.app/api?username=riturajkumar01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=riturajkumar01&theme=tokyonight&hide_border=true&fire=DD2727&ring=5BCDEC&currStreakLabel=5BCDEC)
+<img src="https://nirzak-streak-stats.vercel.app/?user=riturajkumar01&theme=tokyonight&hide_border=true&fire=DD2727&ring=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riturajkumar01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajkumar01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
 
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Contributions-1285-brightgreen?style=for-the-badge&logo=github" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/Current%20Streak-Active-orange?style=for-the-badge&logo=github" alt="Current Streak" />
 </div>
 
 ## 📈 Contribution Graph
@@ -35,7 +40,7 @@ I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (R
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=riturajkumar01&column=4&theme=onedark&no-frame=true&no-bg=true" alt="riturajkumar01" />
+  <img src="https://github-profile-trophy.vercel.app/?username=riturajkumar01&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ### ✍️ Random Dev Quote
