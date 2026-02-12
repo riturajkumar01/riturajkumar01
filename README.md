@@ -8,8 +8,6 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574f49316e496f51">
-
 ## 💫 About Me:
 
 I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (Ramapuram campus). I am passionate about coding and constantly sharpening my skills to excel in the tech world. My current focus is on mastering Data Structures and Algorithms (DSA) to tackle complex problems efficiently.<br><br>I have hands-on experience with C++, HTML, CSS, Python, and Java, which I actively use to build projects and explore new ideas. Apart from my love for technology, I'm a fitness enthusiast who enjoys hitting the gym and exploring new places through traveling.<br><br>Let’s connect and build something amazing together! 🚀<br><br>Feel free to check out my projects here on GitHub. 😊
