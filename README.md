@@ -26,7 +26,7 @@
 
 - 🎓 Third-year **Computer Science** student at **SRM University**, Chennai
 - 💻 Passionate about **Full Stack Development** & **DSA**
-- 🛠️ Hands-on with **C++, Python, JavaScript, HTML, CSS, Java**
+- 🛠️ Hands-on with **C++, Python, MYSQL , JavaScript, HTML, CSS, Java**
 - 🚀 Building projects & exploring new tech every day
 - 🏋️ Fitness enthusiast | 🌍 Love traveling
 
