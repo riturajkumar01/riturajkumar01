@@ -40,7 +40,7 @@ I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (R
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riturajkumar01&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=riturajkumar01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies" />
 </p>
 
 ### ✍️ Random Dev Quote
@@ -73,6 +73,12 @@ I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (R
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riturajkumar01&theme=tokyonight" alt="Most Commit Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riturajkumar01&theme=tokyonight" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Contributions-1285-blue?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/Active_Days-365+-green?style=for-the-badge&logo=github&logoColor=white" alt="Active Days" />
+  <img src="https://img.shields.io/badge/Longest_Streak-100+-orange?style=for-the-badge&logo=git&logoColor=white" alt="Longest Streak" />
 </p>
 
 ---
