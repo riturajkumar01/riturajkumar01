@@ -36,7 +36,7 @@ I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (R
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=riturajkumar01&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=riturajkumar01&theme=algolia&no-frame=false&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies" />
 
 </div>
 
@@ -56,12 +56,13 @@ I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (R
 
 </div>
 
-## 📊 Weekly Development Breakdown
+## 📊 Coding Stats
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=riturajkumar01&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riturajkumar01&theme=tokyonight" alt="Profile Summary" />
 
 </div>
 
