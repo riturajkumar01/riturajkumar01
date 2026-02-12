@@ -20,12 +20,17 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasankhan10/hasankhan10/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966.gif">
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ## 💫 About Me:
 
-I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (Ramapuram campus). I am passionate about coding and constantly sharpening my skills to excel in the tech world. My current focus is on mastering Data Structures and Algorithms (DSA) to tackle complex problems efficiently.<br><br>I have hands-on experience with C++, HTML, CSS, Python, and Java, which I actively use to build projects and explore new ideas. Apart from my love for technology, I'm a fitness enthusiast who enjoys hitting the gym and exploring new places through traveling.<br><br>Let's connect and build something amazing together! 🚀<br><br>Feel free to check out my projects here on GitHub. 😊
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 Third-year **Computer Science** student at **SRM University**, Chennai
+- 💻 Passionate about **Full Stack Development** & **DSA**
+- 🛠️ Hands-on with **C++, Python, JavaScript, HTML, CSS, Java**
+- 🚀 Building projects & exploring new tech every day
+- 🏋️ Fitness enthusiast | 🌍 Love traveling
+
+> *Let's connect and build something amazing together!* 🚀
 
 <br clear="both">
 
