@@ -34,11 +34,9 @@ I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (R
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=riturajkumar01&theme=algolia&no-frame=false&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies" />
-
-</div>
+<p align="center">
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=riturajkumar01&column=4&theme=onedark&no-frame=true&no-bg=true" alt="riturajkumar01" />
+</p>
 
 ### ✍️ Random Dev Quote
 
@@ -56,15 +54,21 @@ I'm Rituraj, a third-year Computer Science student at SRM University, Chennai (R
 
 </div>
 
-## 📊 Coding Stats
+## 📊 Contribution Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riturajkumar01&theme=tokyonight" alt="Commit Graph" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=riturajkumar01&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riturajkumar01&theme=tokyonight" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riturajkumar01&theme=tokyonight" alt="Repos Per Language" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riturajkumar01&theme=tokyonight" alt="Profile Summary" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riturajkumar01&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riturajkumar01&theme=tokyonight" alt="Stats" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=riturajkumar01&icon=0&color=0)](https://visitcount.itsvg.in)
