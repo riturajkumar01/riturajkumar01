@@ -39,7 +39,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Socials:**
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://riturajkumar.onrender.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rituraj-kumar-788867288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riturajkumar15384@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://riturajkumar.onrender.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rituraj-kumar-788867288/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riturajkumar15384@gmail.com)
 
 <!-- Hacker Typing Animation -->
 <div align="center">
@@ -54,30 +54,34 @@
 <!-- 🏆 GitHub Trophies -->
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=riturajkumar01&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/riturajkumar01)
+<img src="https://github-readme-stats.vercel.app/api?username=riturajkumar01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 </div>
 
 <!-- 🔥 Streak Stats -->
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=riturajkumar01&theme=tokyonight&hide_border=true&fire=DD2727&ring=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=riturajkumar01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riturajkumar01&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
 </div>
 
 <!-- 📊 Contribution Badges -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-1,190-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions" />
-  <img src="https://img.shields.io/badge/2025_Contributions-121-blue?style=for-the-badge&logo=github&logoColor=white" alt="2025 Contributions" />
-  <img src="https://img.shields.io/badge/2026_Contributions-54-orange?style=for-the-badge&logo=github&logoColor=white" alt="2026 Contributions" />
-  <img src="https://img.shields.io/badge/Last_Year-1,190-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Last Year" />
+  <img src="https://img.shields.io/badge/March_2026_Commits-73-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="March 2026 Commits" />
+  <img src="https://img.shields.io/badge/March_Active_Days-24-blue?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="March Active Days" />
+  <img src="https://img.shields.io/badge/March_Progress-24%2F24-orange?style=for-the-badge&logo=target&logoColor=white" alt="March Progress" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Active_Days-34-blueviolet?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Active Days" />
-  <img src="https://img.shields.io/badge/Avg_Commits/Day-5.1-ff69b4?style=for-the-badge&logo=git&logoColor=white" alt="Avg Commits" />
-  <img src="https://img.shields.io/badge/Repositories-2+-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+  <img src="https://img.shields.io/badge/Avg_Commits%2FDay-3.0-ff69b4?style=for-the-badge&logo=git&logoColor=white" alt="Average Commits Per Day" />
+  <img src="https://img.shields.io/badge/Source_Repo-my--activity-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Source Repo" />
 </p>
 
 <!-- 🌟 Achievements -->
