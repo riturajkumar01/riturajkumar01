@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riturajkumar01&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220" alt="Star GIF" />
 
 </div>
 
