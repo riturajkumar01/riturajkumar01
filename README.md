@@ -61,17 +61,3 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- Matrix Style Footer -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%3E+Connection+Established...;%3E+Access+Granted...;%3E+Welcome+to+Rituraj%27s+Terminal+%F0%9F%92%80;%3E+Hack+The+Planet!+%F0%9F%8C%8D" />
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:004400&height=100&section=footer&text=&fontSize=0" width="100%"/>
-
-</div>
