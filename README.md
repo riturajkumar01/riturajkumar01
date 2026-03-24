@@ -28,7 +28,7 @@
 
 - 🎓 Third-year **Computer Science** student at **SRM University**, Chennai
 - 💻 Passionate about **Full Stack Development** & **DSA**
-- 🛠️ Hands-on with **C++, Python, MYSQL , JavaScript, HTML, CSS, Java**
+- 🛠️ Hands-on with **C++, Python, MySQL, JavaScript, HTML, CSS, Java**
 - 🚀 Building projects & exploring new tech every day
 - 🏋️ Fitness enthusiast | 🌍 Love traveling
 
@@ -36,11 +36,10 @@
 
 <br clear="both">
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Socials:**
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://riturajkumar.onrender.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rituraj-kumar-788867288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riturajkumar15384@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://riturajkumar.onrender.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rituraj-kumar-788867288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riturajkumar15384@gmail.com)
 
 <!-- Hacker Typing Animation -->
 <div align="center">
@@ -153,5 +152,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:004400&height=100&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>
-
-
