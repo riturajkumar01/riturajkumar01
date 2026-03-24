@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220" alt="Star GIF" />
+<img src="https://img.shields.io/badge/%E2%AD%90_Activity_Highlights-Professional-gold?style=for-the-badge" alt="Activity Highlights" />
 
 </div>
 
