@@ -26,7 +26,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 Third-year **Computer Science** student at **SRM University**, Chennai
+- 🎓 Fourth-Year **Computer Science** student at **SRM University**, Chennai
 - 💻 Passionate about **Full Stack Development** & **DSA**
 - 🛠️ Hands-on with **C++, Python, MySQL, JavaScript, HTML, CSS, Java**
 - 🚀 Building projects & exploring new tech every day
